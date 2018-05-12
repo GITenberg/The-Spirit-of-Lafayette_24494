@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '26528'
     url: http://www.gutenberg.org/2009/agents/26528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24494#The-Spirit-of-Lafayette
 gutenberg_issued: '2008-02-02'
 gutenberg_type: Text
 identifiers:
