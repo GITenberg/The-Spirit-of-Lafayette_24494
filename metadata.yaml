@@ -1,0 +1,28 @@
+_repo: The-Spirit-of-Lafayette_24494
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hallowell, James Mott
+    birthdate: 1865
+    gutenberg_agent_id: '26528'
+    url: http://www.gutenberg.org/2009/agents/26528
+description: ''
+gutenberg_issued: '2008-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24494'
+  lccn: '18004819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcsh 'Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834'
+- !lcc 'D501'
+- !lcsh 'Democracy'
+title: The Spirit of Lafayette
+url: http://www.gutenberg.org/ebooks/24494
